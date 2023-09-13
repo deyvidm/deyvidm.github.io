@@ -1,16 +1,19 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
+
 
 title = "deyvid"
-logo = "img/blogo.png"
-description = "My awesome website"
 copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+
+[params]
+  logo = "img/blogo.png"
+  description = "My awesome website"
+  dateFormat = "2 January 2006"
+  rtl = false
+  isoCode = "en"
+  displayName = "EN"
 
 [author]
   name = "deyvid m."
